@@ -2,10 +2,9 @@
 # 🧠 Deep Learning Assignment: Supervised Contrastive Learning & Transfer Learning
 
 ## 👤 Student Info
-- **Name**: [Your Full Name]
+- **Name**: Mann Nada
 - **University**: San José State University
-- **Course**: [Course Code / Name]
-- **Instructor**: [Instructor Name]
+- **Course**: Deep Learning
 
 ---
 
