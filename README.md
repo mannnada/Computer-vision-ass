@@ -26,7 +26,6 @@ Compare supervised classification using:
 
 ### 📁 Files
 - 🔗 [Colab Notebook](YOUR_COLAB_LINK)
-- 📺 [YouTube Demo](YOUR_YOUTUBE_LINK)
 
 ### 📊 Features
 - t-SNE visualization of learned embeddings
@@ -39,19 +38,15 @@ Compare supervised classification using:
 ### 🖼️ Image Transfer Learning
 - 🔗 [Feature Extractor Colab](YOUR_COLAB_LINK)
 - 🔗 [Fine-Tuning Colab](YOUR_COLAB_LINK)
-- 📺 [YouTube Video](YOUR_YOUTUBE_LINK)
 
 ### 🔉 Audio Transfer Learning (YAMNet)
 - 🔗 [Colab Notebook](YOUR_COLAB_LINK)
-- 📺 [YouTube Video](YOUR_YOUTUBE_LINK)
 
 ### 🎥 Video Classification (I3D / TF Hub)
 - 🔗 [Colab Notebook](YOUR_COLAB_LINK)
-- 📺 [YouTube Video](YOUR_YOUTUBE_LINK)
 
 ### 📝 NLP Text Classification
-- 🔗 [Colab Notebook](YOUR_COLAB_LINK)
-- 📺 [YouTube Video](YOUR_YOUTUBE_LINK)
+- 🔗 [Colab Notebook](YOUR_COLAB_LINK)  
 
 ---
 
@@ -59,11 +54,9 @@ Compare supervised classification using:
 
 ### 🧠 CLIP Zero-Shot Classification
 - 🔗 [Colab Notebook](YOUR_COLAB_LINK)
-- 📺 [YouTube Demo](YOUR_YOUTUBE_LINK)
 
 ### 🌼 BigTransfer (BiT) + TFHub Models
 - 🔗 [Colab Notebook](YOUR_COLAB_LINK)
-- 📺 [YouTube Demo](YOUR_YOUTUBE_LINK)
 
 ---
 
@@ -71,15 +64,12 @@ Compare supervised classification using:
 
 ### 🔢 MNIST
 - 🔗 [Colab Notebook](YOUR_COLAB_LINK)
-- 📺 [YouTube Demo](YOUR_YOUTUBE_LINK)
 
 ### 👚 Fashion MNIST
 - 🔗 [Colab Notebook](YOUR_COLAB_LINK)
-- 📺 [YouTube Demo](YOUR_YOUTUBE_LINK)
 
 ### 🖼️ CIFAR-10
 - 🔗 [Colab Notebook](YOUR_COLAB_LINK)
-- 📺 [YouTube Demo](YOUR_YOUTUBE_LINK)
 
 ### ✅ Includes:
 - EfficientNet (feature extraction + fine-tuning)
@@ -92,11 +82,9 @@ Compare supervised classification using:
 
 ### 🫁 X-Ray Pneumonia Classification
 - 🔗 [Colab Notebook](YOUR_COLAB_LINK)
-- 📺 [YouTube Demo](YOUR_YOUTUBE_LINK)
 
 ### 🧠 3D CT Scan Classification
 - 🔗 [Colab Notebook](YOUR_COLAB_LINK)
-- 📺 [YouTube Demo](YOUR_YOUTUBE_LINK)
 
 ---
 
@@ -108,8 +96,4 @@ This assignment showcases:
 - Real-world healthcare use cases
 
 ---
-
-## 📫 Contact
-- 📧 Email: your_email@example.com
-- 🌐 LinkedIn/GitHub: [Your Profile]
 
