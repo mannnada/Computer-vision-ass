@@ -62,7 +62,7 @@ Compare supervised classification using:
 - 🔗 https://colab.research.google.com/drive/1eYqU9gFpSeMgTOZPZjg4PRwyT--Xxinz?usp=sharing
 
 ### 👚 Fashion MNIST
-- 🔗 [Colab Notebook](YOUR_COLAB_LINK)
+- 🔗 https://colab.research.google.com/drive/1KtmlIgGNp10Ul86AW4txDgZ10qaioMyD?usp=sharing
 
 ### 🖼️ CIFAR-10
 - 🔗 [Colab Notebook](YOUR_COLAB_LINK)
