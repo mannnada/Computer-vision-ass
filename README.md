@@ -65,7 +65,7 @@ Compare supervised classification using:
 - 🔗 https://colab.research.google.com/drive/1KtmlIgGNp10Ul86AW4txDgZ10qaioMyD?usp=sharing
 
 ### 🖼️ CIFAR-10
-- 🔗 [Colab Notebook](YOUR_COLAB_LINK)
+- 🔗 https://colab.research.google.com/drive/1m9zs0SWGRk6Q5wAidhIEVXxjQXWjtxlT?usp=sharing
 
 ### ✅ Includes:
 - EfficientNet (feature extraction + fine-tuning)
