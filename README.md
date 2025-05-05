@@ -25,7 +25,7 @@ Compare supervised classification using:
 - ✅ Supervised Contrastive Loss
 
 ### 📁 Files
-- 🔗 [Colab Notebook](YOUR_COLAB_LINK)
+- 🔗 https://colab.research.google.com/drive/1JJY6r0zE3GTzt5L_9TjN5mFwG_T4cZhk?usp=sharing
 
 ### 📊 Features
 - t-SNE visualization of learned embeddings
