@@ -52,7 +52,7 @@ Compare supervised classification using:
 - 🔗 https://colab.research.google.com/drive/1G3VdkX8nIKR1ojBQzGga8cqbWuw0ee8Y?usp=sharing
 
 ### 🌼 BigTransfer (BiT) + TFHub Models
-- 🔗 [Colab Notebook](YOUR_COLAB_LINK)
+- 🔗 https://colab.research.google.com/drive/13jhDNxP53wuoXLaKFHhGSYdzoDAxMc45?usp=sharing
 
 ---
 
