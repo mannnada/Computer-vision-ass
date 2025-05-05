@@ -36,7 +36,7 @@ Compare supervised classification using:
 ## 📌 Part 2: Transfer Learning (Multi-Modality)
 
 ### 🖼️ Image Transfer Learning
-- 🔗 [Feature Extractor Colab](YOUR_COLAB_LINK)
+- 🔗 https://colab.research.google.com/drive/1DXcLd0pnXFxl7h15K1zWZc8DY71KWJOp?usp=sharing
 - 🔗 [Fine-Tuning Colab](YOUR_COLAB_LINK)
 
 ### 🔉 Audio Transfer Learning (YAMNet)
