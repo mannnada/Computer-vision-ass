@@ -77,7 +77,7 @@ Compare supervised classification using:
 ## 📌 Part 5: Medical Imaging Applications
 
 ### 🫁 X-Ray Pneumonia Classification
-- 🔗 [Colab Notebook](YOUR_COLAB_LINK)
+- 🔗 https://colab.research.google.com/drive/12y321OeoeWxPscPxrl8B7feqrLm6CZln?usp=sharing
 
 ### 🧠 3D CT Scan Classification
 - 🔗 [Colab Notebook](YOUR_COLAB_LINK)
