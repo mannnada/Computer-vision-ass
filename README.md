@@ -49,7 +49,7 @@ Compare supervised classification using:
 ## 📌 Part 3: Zero-Shot and SoTA Transfer Learning
 
 ### 🧠 CLIP Zero-Shot Classification
-- 🔗 [Colab Notebook](YOUR_COLAB_LINK)
+- 🔗 https://colab.research.google.com/drive/1G3VdkX8nIKR1ojBQzGga8cqbWuw0ee8Y?usp=sharing
 
 ### 🌼 BigTransfer (BiT) + TFHub Models
 - 🔗 [Colab Notebook](YOUR_COLAB_LINK)
