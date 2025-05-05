@@ -37,10 +37,9 @@ Compare supervised classification using:
 
 ### 🖼️ Image Transfer Learning
 - 🔗 https://colab.research.google.com/drive/1DXcLd0pnXFxl7h15K1zWZc8DY71KWJOp?usp=sharing
-- 🔗 [Fine-Tuning Colab](YOUR_COLAB_LINK)
 
 ### 🔉 Audio Transfer Learning (YAMNet)
-- 🔗 [Colab Notebook](YOUR_COLAB_LINK)
+- 🔗 https://colab.research.google.com/drive/14Ce0yA3bkG3-QGH20OCzgFiERBSoqc1q?usp=sharing
 
 ### 🎥 Video Classification (I3D / TF Hub)
 - 🔗 [Colab Notebook](YOUR_COLAB_LINK)
