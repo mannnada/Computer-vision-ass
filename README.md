@@ -42,7 +42,7 @@ Compare supervised classification using:
 - 🔗 https://colab.research.google.com/drive/14Ce0yA3bkG3-QGH20OCzgFiERBSoqc1q?usp=sharing
 
 ### 🎥 Video Classification (I3D / TF Hub)
-- 🔗 [Colab Notebook](YOUR_COLAB_LINK)
+- 🔗 https://colab.research.google.com/drive/1s7dEAAk0duZIC9x-s1ex8hLKjU8ic7dQ?usp=sharing
 
 ### 📝 NLP Text Classification
 - 🔗 [Colab Notebook](YOUR_COLAB_LINK)  
