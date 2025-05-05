@@ -44,9 +44,6 @@ Compare supervised classification using:
 ### 🎥 Video Classification (I3D / TF Hub)
 - 🔗 https://colab.research.google.com/drive/1s7dEAAk0duZIC9x-s1ex8hLKjU8ic7dQ?usp=sharing
 
-### 📝 NLP Text Classification
-- 🔗 [Colab Notebook](YOUR_COLAB_LINK)  
-
 ---
 
 ## 📌 Part 3: Zero-Shot and SoTA Transfer Learning
