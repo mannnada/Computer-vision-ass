@@ -59,7 +59,7 @@ Compare supervised classification using:
 ## 📌 Part 4: Vision Classifiers - MNIST, Fashion MNIST, CIFAR-10
 
 ### 🔢 MNIST
-- 🔗 [Colab Notebook](YOUR_COLAB_LINK)
+- 🔗 https://colab.research.google.com/drive/1eYqU9gFpSeMgTOZPZjg4PRwyT--Xxinz?usp=sharing
 
 ### 👚 Fashion MNIST
 - 🔗 [Colab Notebook](YOUR_COLAB_LINK)
