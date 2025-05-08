@@ -42,7 +42,7 @@ Compare supervised classification using:
 - 🔗 https://colab.research.google.com/drive/14Ce0yA3bkG3-QGH20OCzgFiERBSoqc1q?usp=sharing
 
 ### 🎥 Video Classification (I3D / TF Hub)
-- 🔗 https://colab.research.google.com/drive/1s7dEAAk0duZIC9x-s1ex8hLKjU8ic7dQ?usp=sharing
+- 🔗 https://youtu.be/Tb_G69ExKY0
 
 ---
 
@@ -83,6 +83,7 @@ Compare supervised classification using:
 - 🔗 https://colab.research.google.com/drive/17sjb9j9n4NK_4miGdPIsSjJ_S4hdBFNc?usp=sharing
 
 ---
+Video : https://youtu.be/Tb_G69ExKY0
 
 ## 💡 Summary
 This assignment showcases:
